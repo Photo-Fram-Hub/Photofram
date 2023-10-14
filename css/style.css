@@ -795,10 +795,10 @@ a:focus {
 }
 
 .info_section h6 {
-  font-weight: bold;
-  text-transform: uppercase;
+  font-weight: normal;
+  text-transform: lowercase;
   font-size: 18px;
-  margin-bottom: 25px;
+  margin-bottom: 30px;
 }
 
 .info_section p {
@@ -966,7 +966,7 @@ a:focus {
 }
 
 .total .main-border-button {
-  text-align: right;
+  text-align: left;
 }
 
 .total .main-border-button a {
